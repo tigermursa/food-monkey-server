@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Ling Chen",
-    "img": "https://example.com/chef-ling-chen.jpg",
+    "img": "https://performingartistes.co.uk/assets/jun_tanaka350.jpg",
     "experience": "20 years",
     "recipesNumber": 3,
     "recipes": [
@@ -46,7 +46,7 @@
   {
     "id": 2,
     "name": "Wang Xiaohua",
-    "img": "https://example.com/chef-wang-xiaohua.jpg",
+    "img": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/chan-yan-tak-alchetron.jpeg",
     "experience": "25 years",
     "recipesNumber": 4,
     "recipes": [
@@ -101,7 +101,7 @@
   {
     "id": 3,
     "name": "Li Ming",
-    "img": "https://example.com/chef-li-ming.jpg",
+    "img": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/susanna-foo-the-spruce-eats.jpg",
     "experience": "15 years",
     "recipesNumber": 2,
     "recipes": [
@@ -126,6 +126,17 @@
           "Sichuan peppercorns"
         ],
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Sichuan Dry Fried Green Beans",
+        "ingredients": [
+          "Green beans",
+          "Ground pork",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
     "likes": 500,
@@ -134,7 +145,7 @@
   {
     "id": 4,
     "name": "Li Wei",
-    "img": "https://example.com/chef-li-wei.jpg",
+    "img": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/mei-lin-bravo-tv.jpg",
     "experience": "15 years",
     "recipesNumber": 3,
     "recipes": [
@@ -170,6 +181,17 @@
           "Oyster sauce"
         ],
         "cookingMethod": "1. Wash the bok choy and cut into bite-sized pieces. \n2. Heat a wok over high heat and add vegetable oil. Stir-fry the garlic and ginger until fragrant. \n3. Add the bok choy and stir-fry until wilted. \n4. Add soy sauce and oyster sauce and stir-fry for another minute. Serve hot."
+      },
+      {
+        "name": "Sichuan Dry Fried Green Beans",
+        "ingredients": [
+          "Green beans",
+          "Ground pork",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
     "likes": 500,
@@ -178,7 +200,7 @@
   {
     "id": 5,
     "name": "Li Fui",
-    "img": "https://example.com/chef-li-wei.jpg",
+    "img": "https://media.istockphoto.com/id/1154801795/photo/chinese-chef.jpg?s=612x612&w=0&k=20&c=WaTumclkoLjmhPbNJWl0fE8ZCJJVY17eoBIwotg3te8=",
     "experience": "15 years",
     "recipesNumber": 3,
     "recipes": [
@@ -233,7 +255,7 @@
   {
     "id": 6,
     "name": "Ling Gugu",
-    "img": "https://example.com/chef-ling-chen.jpg",
+    "img": "https://media.istockphoto.com/id/691207990/photo/japanese-chef-working-in-a-tokyo-restaurant.jpg?s=612x612&w=0&k=20&c=Wx6t0dw2A-3hJryiGf_qojkMQ_9TxDVzAUg6ZJQd8OE=",
     "experience": "20 years",
     "recipesNumber": 3,
     "recipes": [
