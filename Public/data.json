@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Ling Chen",
+    "img": "https://example.com/chef-ling-chen.jpg",
+    "experience": "20 years",
+    "recipesNumber": 3,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "Chicken breast",
+          "Sichuan peppercorns",
+          "Dried red chilies",
+          "Garlic",
+          "Vegetable oil"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "Soy sauce",
+          "Doubanjiang",
+          "Chicken broth",
+          "Cornstarch",
+          "Scallions"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Steamed Fish",
+        "ingredients": [
+          "Whole fish",
+          "Ginger",
+          "Scallions",
+          "Soy sauce",
+          "Sesame oil"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      }
+    ],
+    "likes": 1000,
+    "bio": "Chef Ling Chen is a master of Sichuan cuisine, known for her bold use of Sichuan peppercorns and fiery dried chilies. With over 20 years of experience in the kitchen, she has honed her craft and developed a loyal following. She is passionate about introducing the world to the flavors of Sichuan and is always experimenting with new recipes."
+  },
+  {
+    "id": 2,
+    "name": "Wang Xiaohua",
+    "img": "https://example.com/chef-wang-xiaohua.jpg",
+    "experience": "25 years",
+    "recipesNumber": 4,
+    "recipes": [
+      {
+        "name": "Dongpo Polo",
+        "ingredients": [
+          "Dark soy sauce",
+          "Rock sugar",
+          "Ginger",
+          "Garlic",
+          "Scallions"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Sichuan Dry Fried Green Beans",
+        "ingredients": [
+          "Green beans",
+          "Ground pork",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Braised Eggplant",
+        "ingredients": [
+          "Eggplant",
+          "Ground pork",
+          "Doubanjiang",
+          "Garlic",
+          "Ginger"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "ingredients": [
+          "Tofu",
+          "Bamboo shoots",
+          "Shiitake mushrooms",
+          "Wood ear mushrooms",
+          "Vinegar"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      }
+    ],
+    "likes": 800,
+    "bio": "Chef Wang Xiaohua is a master of Huaiyang cuisine, known for his delicate balance of sweet and salty flavors. With over 25 years of experience in the kitchen, he has won numerous awards and accolades for his dishes. He is passionate about preserving the traditions of Huaiyang cuisine while also incorporating modern techniques."
+  },
+  {
+    "id": 3,
+    "name": "Li Ming",
+    "img": "https://example.com/chef-li-ming.jpg",
+    "experience": "15 years",
+    "recipesNumber": 2,
+    "recipes": [
+      {
+        "name": "Stir-Fried Vegetables",
+        "ingredients": [
+          "Broccoli",
+          "Carrots",
+          "Red bell pepper",
+          "Garlic",
+          "Soy sauce"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add garlic and stir-fry until fragrant. Add vegetables and continue to stir-fry until crisp-tender. Add soy sauce and stir to combine. Serve hot."
+      },
+      {
+        "name": "Sichuan Fried Rice",
+        "ingredients": [
+          "Cooked rice",
+          "Eggs",
+          "Green onions",
+          "Peas",
+          "Sichuan peppercorns"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      }
+    ],
+    "likes": 500,
+    "bio": "Chef Li Ming is a rising star in the Chinese culinary world, known for her innovative twists on traditional dishes. With 15 years of experience in the kitchen, she has a deep understanding of Chinese flavors and techniques. She is passionate about using fresh, locally-sourced ingredients to create healthy and delicious dishes for her customers."
+  },
+  {
+    "id": 4,
+    "name": "Li Wei",
+    "img": "https://example.com/chef-li-wei.jpg",
+    "experience": "15 years",
+    "recipesNumber": 3,
+    "recipes": [
+      {
+        "name": "Spicy Shrimp",
+        "ingredients": [
+          "Shrimp",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger",
+          "Sichuan peppercorns"
+        ],
+        "cookingMethod": "1. Heat a wok over high heat and add vegetable oil. Stir-fry the garlic, ginger, and dried red chilies until fragrant. \n2. Add the shrimp and stir-fry until they are pink and cooked through. \n3. Add Sichuan peppercorns and stir-fry for another minute. Serve hot."
+      },
+      {
+        "name": "Cumin Lamb",
+        "ingredients": [
+          "Lamb shoulder",
+          "Cumin",
+          "Garlic",
+          "Ginger",
+          "Green onions"
+        ],
+        "cookingMethod": "1. Cut the lamb shoulder into bite-sized pieces. Marinate with cumin, garlic, and ginger for 30 minutes. \n2. Heat a wok over high heat and add vegetable oil. Stir-fry the lamb until browned. \n3. Add green onions and stir-fry for another minute. Serve hot."
+      },
+      {
+        "name": "Stir-fried Bok Choy",
+        "ingredients": [
+          "Bok choy",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Oyster sauce"
+        ],
+        "cookingMethod": "1. Wash the bok choy and cut into bite-sized pieces. \n2. Heat a wok over high heat and add vegetable oil. Stir-fry the garlic and ginger until fragrant. \n3. Add the bok choy and stir-fry until wilted. \n4. Add soy sauce and oyster sauce and stir-fry for another minute. Serve hot."
+      }
+    ],
+    "likes": 500,
+    "bio": "Chef Li Wei specializes in Sichuan-style seafood and lamb dishes. With 15 years of experience in the kitchen, he has developed a keen sense of taste and a deep knowledge of Chinese culinary traditions. He loves to experiment with new flavors and ingredients while staying true to the authentic flavors of his hometown."
+  },
+  {
+    "id": 5,
+    "name": "Li Fui",
+    "img": "https://example.com/chef-li-wei.jpg",
+    "experience": "15 years",
+    "recipesNumber": 3,
+    "recipes": [
+      {
+        "name": "Ma La Xiang Guo",
+        "ingredients": [
+          "Sichuan peppercorns",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sugar",
+          "Fermented black beans",
+          "Tofu skin",
+          "Shiitake mushrooms",
+          "Napa cabbage"
+        ]
+      },
+      {
+        "name": "Twice Cooked Pork",
+        "ingredients": [
+          "Pork belly",
+          "Leeks",
+          "Doubanjiang",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Shaoxing wine",
+          "Sichuan peppercorns"
+        ]
+      },
+      {
+        "name": "Kung Pao Tofu",
+        "ingredients": [
+          "Tofu",
+          "Sichuan peppercorns",
+          "Dried red chilies",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sugar",
+          "Cornstarch",
+          "Peanuts",
+          "Scallions",
+          "Vegetable oil"
+        ]
+      }
+    ],
+    "likes": 1200,
+    "bio": "Chef Li Wei fui is a specialist in Sichuan cuisine, particularly famous for his mastery of ma la dishes. With over 15 years of experience, he is known for his bold use of Sichuan peppercorns and fiery dried chilies. He is passionate about sharing his love for Sichuan cuisine and introducing people to the diverse flavors of his homeland."
+  },
+  {
+    "id": 6,
+    "name": "Ling Gugu",
+    "img": "https://example.com/chef-ling-chen.jpg",
+    "experience": "20 years",
+    "recipesNumber": 3,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "Chicken breast",
+          "Sichuan peppercorns",
+          "Dried red chilies",
+          "Garlic",
+          "Vegetable oil"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "Soy sauce",
+          "Doubanjiang",
+          "Chicken broth",
+          "Cornstarch",
+          "Scallions"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      },
+      {
+        "name": "Steamed Fish",
+        "ingredients": [
+          "Whole fish",
+          "Ginger",
+          "Scallions",
+          "Soy sauce",
+          "Sesame oil"
+        ],
+        "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
+      }
+    ],
+    "likes": 1000,
+    "bio": "Chef Ling Gugu is a master of Sichuan cuisine, known for her bold use of Sichuan peppercorns and fiery dried chilies. With over 20 years of experience in the kitchen, she has honed her craft and developed a loyal following. She is passionate about introducing the world to the flavors of Sichuan and is always experimenting with new recipes."
+  }
+]
