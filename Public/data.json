@@ -40,7 +40,7 @@
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
-    "likes": 1000,
+    "likes": "6.8M",
     "bio": "Chef Ling Chen is a master of Sichuan cuisine, known for her bold use of Sichuan peppercorns and fiery dried chilies. With over 20 years of experience in the kitchen, she has honed her craft and developed a loyal following. She is passionate about introducing the world to the flavors of Sichuan and is always experimenting with new recipes."
   },
   {
@@ -95,7 +95,7 @@
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
-    "likes": 800,
+    "likes": "7.4M",
     "bio": "Chef Wang Xiaohua is a master of Huaiyang cuisine, known for his delicate balance of sweet and salty flavors. With over 25 years of experience in the kitchen, he has won numerous awards and accolades for his dishes. He is passionate about preserving the traditions of Huaiyang cuisine while also incorporating modern techniques."
   },
   {
@@ -103,7 +103,7 @@
     "name": "Li Ming",
     "img": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/susanna-foo-the-spruce-eats.jpg",
     "experience": "15 years",
-    "recipesNumber": 2,
+    "recipesNumber": 3,
     "recipes": [
       {
         "name": "Stir-Fried Vegetables",
@@ -139,7 +139,7 @@
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
-    "likes": 500,
+    "likes": "3.9M",
     "bio": "Chef Li Ming is a rising star in the Chinese culinary world, known for her innovative twists on traditional dishes. With 15 years of experience in the kitchen, she has a deep understanding of Chinese flavors and techniques. She is passionate about using fresh, locally-sourced ingredients to create healthy and delicious dishes for her customers."
   },
   {
@@ -194,7 +194,7 @@
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
-    "likes": 500,
+    "likes": "9.2M",
     "bio": "Chef Li Wei specializes in Sichuan-style seafood and lamb dishes. With 15 years of experience in the kitchen, he has developed a keen sense of taste and a deep knowledge of Chinese culinary traditions. He loves to experiment with new flavors and ingredients while staying true to the authentic flavors of his hometown."
   },
   {
@@ -249,7 +249,7 @@
         ]
       }
     ],
-    "likes": 1200,
+    "likes": "3.5M",
     "bio": "Chef Li Wei fui is a specialist in Sichuan cuisine, particularly famous for his mastery of ma la dishes. With over 15 years of experience, he is known for his bold use of Sichuan peppercorns and fiery dried chilies. He is passionate about sharing his love for Sichuan cuisine and introducing people to the diverse flavors of his homeland."
   },
   {
@@ -293,7 +293,7 @@
         "cookingMethod": "Heat oil in a wok over high heat. Add beaten eggs and scramble until cooked. Add cooked rice, green onions, peas, and Sichuan peppercorns. Stir-fry until rice is heated through and ingredients are evenly distributed. Serve hot."
       }
     ],
-    "likes": 1000,
+    "likes": "8.6M",
     "bio": "Chef Ling Gugu is a master of Sichuan cuisine, known for her bold use of Sichuan peppercorns and fiery dried chilies. With over 20 years of experience in the kitchen, she has honed her craft and developed a loyal following. She is passionate about introducing the world to the flavors of Sichuan and is always experimenting with new recipes."
   }
 ]
